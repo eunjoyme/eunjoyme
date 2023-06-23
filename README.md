@@ -27,8 +27,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </div><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunjome&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=eunjome&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunjoyme&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=eunjoyme&show_icons=true">
 
 ## Project List
 - Special Day
