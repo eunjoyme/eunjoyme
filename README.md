@@ -31,7 +31,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=eunjoyme&show_icons=true">
 
 ## Project List
-- Special Day
+- Special Day <img src="https://github.com/pknu05/Final-Project/assets/44632544/3af41267-72d3-48ff-8dfd-aac0d62ae130"><br/><br/>
+
 - link :  http://43.202.51.94:8080/specialday/home.do
 
 <!--
