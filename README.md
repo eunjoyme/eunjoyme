@@ -32,6 +32,7 @@
 
 ## Project List
 - Special Day
+- link :  http://43.202.51.94:8080/specialday/home.do
 
 <!--
 **eunjoyme/eunjoyme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
